@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 2. Placer les fichiers du dataset dans le dossier `processed_data/`.
 
-3. Ouvrir le notebook Jupyter.
+3. Ouvrir les notebook Jupyter.
 
 4. Exécuter les cellules dans l'ordre.
 
